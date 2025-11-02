@@ -1,4 +1,3 @@
 # DSC180A-Methodology-3
 
-Sadrac Santacruz
-ssantacruzibarra@ucsd.edu
+Sadrac Santacruz and Norah Kerendian
